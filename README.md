@@ -13,6 +13,7 @@ Badges earned by **Indica Independent Media** on [Base44](https://app.base44.com
 | <a href="https://app.base44.com/@indica"><img src="icons/maker-dna.svg" width="56" alt="Maker DNA"></a> | **Maker DNA** | Can't stop building. Ships fast, iterates faster. | 2026-10-05 |
 | <a href="https://app.base44.com/@indica"><img src="icons/ai-native.svg" width="56" alt="AI Native"></a> | **AI Native** | AI isn't a feature. It's the foundation. | 2026-10-28 |
 | <a href="https://app.base44.com/@indica"><img src="icons/automation-architect.svg" width="56" alt="Automation Architect"></a> | **Automation Architect** | Builds systems that run themselves. | 2026-10-05 |
+| <a href="https://app.base44.com/@indica"><img src="icons/spooky-builder.svg" width="56" alt="Spooky Builder"></a> | **Spooky Builder** | Bringing scary ideas to life. | 2026-10-30 |
 
 The profile also carries the **Maker** tier mark, shown here as a small green pill above the three badges.
 
@@ -24,6 +25,7 @@ The full versions follow the layout of the cards on the Base44 profile page.
 <a href="https://app.base44.com/@indica"><img src="cards/maker-dna.svg" width="420" alt="Maker DNA card"></a>
 <a href="https://app.base44.com/@indica"><img src="cards/ai-native.svg" width="420" alt="AI Native card"></a>
 <a href="https://app.base44.com/@indica"><img src="cards/automation-architect.svg" width="420" alt="Automation Architect card"></a>
+<a href="https://app.base44.com/@indica"><img src="cards/spooky-builder.svg" width="420" alt="Spooky Builder card"></a>
 </div>
 
 ## Files
@@ -40,4 +42,4 @@ Colours were measured from screenshots of the live profile: orange `#FF6A00`, ca
 
 ## Attribution
 
-The badge program, its names, descriptions and original artwork belong to Base44. The SVGs in this repository are hand-traced recreations made so the badges can be displayed on GitHub, which Base44 does not provide image files for. This repository is not affiliated with or endorsed by Base44. The recreated SVG files are released under the MIT License in this repository.
+The badge program, its names, descriptions and original artwork belong to Base44. The SVGs in this repository are hand-traced recreations (the Spooky Builder ghost and bolt were traced from the badge's share image) made so the badges can be displayed on GitHub, which Base44 does not provide image files for. This repository is not affiliated with or endorsed by Base44. The recreated SVG files are released under the MIT License in this repository.
